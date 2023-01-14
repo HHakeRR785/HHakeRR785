@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HHakeRR785
 - 👀 I’m interested in Game Dev and python :)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 
 <!---
 HHakeRR785/HHakeRR785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
