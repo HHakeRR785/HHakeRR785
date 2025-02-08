@@ -6,7 +6,7 @@ Hello! I am **HHakeRR785**, a passionate programmer with a strong focus on the *
 ---
 
 ### 🚀 What I’m Working On  
-- Developing tools and projects leveraging the **Discord API**.  
+- Public multi-purpore Discord bot.  
 - Exploring **self-bot automation** (for educational purposes 😉).  
 - Expanding my expertise in **Python**, **Java**, and other key technologies.  
 
@@ -28,6 +28,7 @@ Hello! I am **HHakeRR785**, a passionate programmer with a strong focus on the *
   - Nextcord
   - Stripe
   - Pterodactyl API
+  - Bukkit API
 - **Tools:**  
   - Git & GitHub  
   - Visual Studio Code
